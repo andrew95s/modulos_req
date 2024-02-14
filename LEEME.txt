@@ -1,0 +1,7 @@
+REQUIERE JAVA JDK 21.0.X
+
+abrirel proyecto en un Idle, preferiblemente IntelliJ 
+desplegar la ruta
+empleados_igac > src > main > java > gm.empleados_igac > vista > EmpleadosIgacAplicacion
+
+Ejecutar :  EmpleadosIgacAplicacion
